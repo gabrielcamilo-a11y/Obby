@@ -22,15 +22,6 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo ou estou aprendend
 
 ---
 
- 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ### 📫 Vamos nos conectar?
 - **E-mail: Gabriel.camilo@edu.senai.br
 
